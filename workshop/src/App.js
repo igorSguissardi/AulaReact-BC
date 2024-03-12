@@ -1,12 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react';
+import Input from "./components/Input.js";
 function App() {
   return (
-    <div>className+
-      <h1>Hello, world!</h1>
-      <p>Bahhhhh, é os Guri</p>
-      </div>
+    <div className="flex min-h-screen w-full h-full items-center justify-center">
+      <Input description="Digite o seu e-mail" label="E-mail" placeholder="igor@gmail.com" type="text"/>
+      <Input description="Carteira para receber NFT" label="Wallet" placeholder="00.00...0000" type="text"/>
+      <Input description="Seu nome" label="Nome" placeholder="Johndoe" type="text"/>
+    </div>
   );
 }
 
