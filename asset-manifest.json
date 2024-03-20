@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/igorSguissardi/AulaReact-BC.git/static/css/main.e2987b3b.css",
+    "main.js": "/igorSguissardi/AulaReact-BC.git/static/js/main.7fae4c7c.js",
+    "static/js/453.2eab6565.chunk.js": "/igorSguissardi/AulaReact-BC.git/static/js/453.2eab6565.chunk.js",
+    "static/media/background-ib.svg": "/igorSguissardi/AulaReact-BC.git/static/media/background-ib.be11122288e47b108b7e.svg",
+    "static/media/logo.svg": "/igorSguissardi/AulaReact-BC.git/static/media/logo.58965ca8ba472e17524a4ed7ecd21eaf.svg",
+    "static/media/wpp.svg": "/igorSguissardi/AulaReact-BC.git/static/media/wpp.1cb83ae89153ec1df8bf5745388e2aaf.svg",
+    "index.html": "/igorSguissardi/AulaReact-BC.git/index.html",
+    "static/media/github.svg": "/igorSguissardi/AulaReact-BC.git/static/media/github.cd29f29a8de5aed862874d555c756d74.svg",
+    "main.e2987b3b.css.map": "/igorSguissardi/AulaReact-BC.git/static/css/main.e2987b3b.css.map",
+    "main.7fae4c7c.js.map": "/igorSguissardi/AulaReact-BC.git/static/js/main.7fae4c7c.js.map",
+    "453.2eab6565.chunk.js.map": "/igorSguissardi/AulaReact-BC.git/static/js/453.2eab6565.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2987b3b.css",
+    "static/js/main.7fae4c7c.js"
+  ]
+}
