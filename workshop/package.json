@@ -1,6 +1,5 @@
 {
   "name": "workshop",
-  "homepage": "https://github.com/igorSguissardi/AulaReact-BC.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
