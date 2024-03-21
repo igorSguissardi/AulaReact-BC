@@ -18,7 +18,7 @@ function App() {
         {/* Link para o site, com uma imagem como logo */}
         <a
           href="https://inteliblockchain.co"
-          target="_blank" // Abre o link em uma nova aba
+          target="_blank" rel="noreferrer" // Abre o link em uma nova aba
           className="w-4/5 md:w-2/3 lg:w-1/2"
         >
           <img
@@ -43,7 +43,7 @@ function App() {
           <p className="text-sm md:text-base text-gray-200 my-2">
             Ainda não tem uma carteira? Acesse o link e crie a sua já:{" "}
             <a
-              target="_blank" // Abre o link em uma nova aba
+              target="_blank" rel="noreferrer" // Abre o link em uma nova aba
               href={"https://metamask.io/download/"}
               className="text-blue-500 hover:underline"
             >
@@ -113,7 +113,7 @@ function App() {
         <div className="mt-8">
           <a
             href="https://github.com/InteliBlockchain/onboarding"
-            target="_blank" // Abre o link em uma nova aba
+            target="_blank" rel="noreferrer" // Abre o link em uma nova aba
           >
             <span className="text-sm text-gray-400 flex flex-row">
               Todo o código pode ser encontrado aqui:{" "}
@@ -125,7 +125,7 @@ function App() {
         <div className="mt-4">
           <a
             href="https://chat.whatsapp.com/EoP5wbGPujg8vpG9f6KNWz"
-            target="_blank" // Abre o link em uma nova aba
+            target="_blank" rel="noreferrer" // Abre o link em uma nova aba
           >
             <span className="text-sm text-gray-400 flex flex-row">
               Caso tenha alguma dúvida:{" "}
