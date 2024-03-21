@@ -26,7 +26,12 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Build project
-        run: npm run build
+        run: |
+              cd workshop
+              npm install
+              npm run build
+              mv build ../build
+                  
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
